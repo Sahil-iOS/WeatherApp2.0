@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5494D974-5155-4249-8E37-7AB5288C45BE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C6F5D6E-67CE-4976-A051-459678A83B2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3C6F5D6E-67CE-4976-A051-459678A83B2B - 444720d646f04d4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "790">
+               </Location>
+               <Location
+                  uuid = "3C6F5D6E-67CE-4976-A051-459678A83B2B - 444720d646f04d4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  uuid = "3C6F5D6E-67CE-4976-A051-459678A83B2B - 444720d646f04cab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "206">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3B805D0-8D83-49C8-8945-5F7B23897537"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "weatherDataDidUpdate()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3B805D0-8D83-49C8-8945-5F7B23897537 - 783a73f766b330e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.weatherDataDidUpdate() -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E3B805D0-8D83-49C8-8945-5F7B23897537 - 783a73f766b330c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.weatherDataDidUpdate() -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC86E4A3-52F5-4B0E-B41B-5CD3F8C1921C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/Views/WeatherTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11247BE3-0FF5-43D9-B1E8-F5EBC8631ACA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11247BE3-0FF5-43D9-B1E8-F5EBC8631ACA - 444720d646f04dc0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "2689">
+               </Location>
+               <Location
+                  uuid = "11247BE3-0FF5-43D9-B1E8-F5EBC8631ACA - adbcad594d9e5b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "11247BE3-0FF5-43D9-B1E8-F5EBC8631ACA - adbcad594d9e559"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApp2.ViewController.tableView(_: __C.UITableView, numberOfRowsInSection: Swift.Int) -&gt; Swift.Int"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5712A910-7EBB-4A5A-8BBB-049F3B84F52D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F23BBC33-2F0A-4B71-B0EB-E46099538B27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/Views/InputView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/Views/LocationInputView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8 - 696de56b547cd289"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in WeatherApp2.LocationInputView.body.getter : some"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/Views/LocationInputView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8 - 69311430d1215174"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in WeatherApp2.LocationInputView.body.getter : some"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/Views/LocationInputView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8 - 5ceb079a72261e8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in WeatherApp2.LocationInputView.body.getter : some"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/Views/LocationInputView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8 - 696de56b547cd2cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in WeatherApp2.LocationInputView.body.getter : some"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/Views/LocationInputView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "134">
+               </Location>
+               <Location
+                  uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8 - 69311430d1215132"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in WeatherApp2.LocationInputView.body.getter : some"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/Views/LocationInputView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "07118298-C59B-4B4D-9464-7B26DC9A64E8 - 5ceb079a72261ec9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI._ConditionalContent&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt;, Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;)&gt; in WeatherApp2.LocationInputView.body.getter : some"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/Views/LocationInputView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46569D8C-CE75-4528-8F1A-A1F4195914F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewModels/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "fetchLatLong()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "46569D8C-CE75-4528-8F1A-A1F4195914F1 - 3b73ea07abcb1e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  uuid = "46569D8C-CE75-4528-8F1A-A1F4195914F1 - 3b73ea07abcb1e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F9135AA-92A8-4DA3-8C7A-95C67FF2A97A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewModels/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchLatLong()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F9135AA-92A8-4DA3-8C7A-95C67FF2A97A - 156503f969d10ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "2F9135AA-92A8-4DA3-8C7A-95C67FF2A97A - e614e93287664cd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "305">
+               </Location>
+               <Location
+                  uuid = "2F9135AA-92A8-4DA3-8C7A-95C67FF2A97A - ebc2be0bb2fa86d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "2F9135AA-92A8-4DA3-8C7A-95C67FF2A97A - 156503f969d10ad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  uuid = "2F9135AA-92A8-4DA3-8C7A-95C67FF2A97A - e614e93287664cd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchLatLong() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "291">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE54D894-1AA4-4209-9082-E2813B134847"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "geocode(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE54D894-1AA4-4209-9082-E2813B134847 - 49203fc9e7740c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.OpenWeatherGeocoder.geocode(lat: Swift.String, lon: Swift.String) async throws -&gt; Swift.Optional&lt;WeatherApp2.Location&gt;"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "CE54D894-1AA4-4209-9082-E2813B134847 - 49203fc9e7740c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.OpenWeatherGeocoder.geocode(lat: Swift.String, lon: Swift.String) async throws -&gt; Swift.Optional&lt;WeatherApp2.Location&gt;"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1102">
+               </Location>
+               <Location
+                  uuid = "CE54D894-1AA4-4209-9082-E2813B134847 - 49203fc9e7740c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.OpenWeatherGeocoder.geocode(lat: Swift.String, lon: Swift.String) async throws -&gt; Swift.Optional&lt;WeatherApp2.Location&gt;"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F265B67D-12E0-47B8-87C4-18FDA267ECD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "geocode(lat:lon:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F265B67D-12E0-47B8-87C4-18FDA267ECD7 - 3d6bb455ec4d4347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherApp2.OpenWeatherGeocoder.geocode(lat: Swift.String, lon: Swift.String) async throws -&gt; Swift.Optional&lt;WeatherApp2.Location&gt;"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1193">
+               </Location>
+               <Location
+                  uuid = "F265B67D-12E0-47B8-87C4-18FDA267ECD7 - 5776f19bf6d1e144"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for WeatherApp2.OpenWeatherGeocoder.geocode(lat: Swift.String, lon: Swift.String) async throws -&gt; Swift.Optional&lt;WeatherApp2.Location&gt;"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/APIProviders/GeocodingDataProvider.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ABA290C-D6E2-464A-85DB-FA343DF02DFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewModels/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "fetchCurrentLocationData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5ABA290C-D6E2-464A-85DB-FA343DF02DFF - 84b407fb5e22ff76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchCurrentLocationData() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "149"
+                  endingLineNumber = "149"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "5ABA290C-D6E2-464A-85DB-FA343DF02DFF - 84b407fb5e22ff97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchCurrentLocationData() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "392">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5974A2D-AF8D-4C39-BE63-3E6EE4CFC3DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApp2/ViewModels/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "fetchCurrentLocationData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5974A2D-AF8D-4C39-BE63-3E6EE4CFC3DB - 84b407fb5e22f06f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchCurrentLocationData() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "1297">
+               </Location>
+               <Location
+                  uuid = "A5974A2D-AF8D-4C39-BE63-3E6EE4CFC3DB - c8b47df38e817e01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for WeatherApp2.WeatherViewModel.fetchCurrentLocationData() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "A5974A2D-AF8D-4C39-BE63-3E6EE4CFC3DB - 149a2ef0ae193c61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchCurrentLocationData() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "249">
+               </Location>
+               <Location
+                  uuid = "A5974A2D-AF8D-4C39-BE63-3E6EE4CFC3DB - 5cf53a0a6614a262"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for WeatherApp2.WeatherViewModel.fetchCurrentLocationData() async -&gt; ()"
+                  moduleName = "WeatherApp2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sahilpatel/Desktop/WeatherApp2/WeatherApp2/ViewModels/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "156"
+                  endingLineNumber = "156"
+                  offsetFromSymbolStart = "259">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
